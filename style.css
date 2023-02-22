@@ -4,6 +4,7 @@ h2{
 }
 h3{
     text-decoration: underline;
-    text-transform: uppercase;
+    text-transform:capitalize;
     color:blue;
+    letter-spacing: 4px;
 }
