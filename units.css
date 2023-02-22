@@ -1,0 +1,14 @@
+.title-page{
+    color:purple;
+    text-align: center;
+    text-decoration: underline;
+}
+.heading{
+    height: 50px;
+    width: 500px;
+    color: blueviolet;
+}
+.heading-name{
+    background-color: aquamarine;
+    color: red;
+}
