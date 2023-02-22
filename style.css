@@ -1,4 +1,9 @@
 h2{
     color:brown;
-    
+
+}
+h3{
+    text-decoration: underline;
+    text-transform: uppercase;
+    color:blue;
 }
