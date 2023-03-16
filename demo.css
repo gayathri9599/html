@@ -1,5 +1,5 @@
 .column-big{
-    border: 2px solid purple;
+    border: 2px solid rgb(82, 8, 82);
     height: 30vh;
     display: flex;
     margin-left: 15px;
@@ -13,4 +13,16 @@
     margin-left: 15px;
     margin-right: 15px;
     display: flex;
+}
+.image{
+    border: 2px solid violet;
+    width: 30%;
+}
+.image-content{
+    border: 2px solid violet;
+    width: 80%;
+}
+.image-block{
+    border: 2px solid violet;
+    width: 33%;
 }
