@@ -13,6 +13,8 @@
     margin-left: 15px;
     margin-right: 15px;
     display: flex;
+    font-size: 131%;
+    font-style: italic;
 }
 .image{
     border: 2px solid violet;
@@ -22,7 +24,46 @@
     border: 2px solid violet;
     width: 80%;
 }
+
+.first-heading{
+    border: 2px solid palevioletred;
+    height: 42%;
+    display: flex;
+    flex-direction: row;
+}
+
+.first-heading-row1{
+    border: 1px solid darkred;
+    width: 19%;
+}
+.first-heading-row2{
+    border: 1px solid darkviolet;
+    width: 66%;
+}
+.first-heading-row3{
+    border: 1px solid indianred;
+    width: 14%;
+}
+.second-heading{
+    border: 2px solid palevioletred;
+    height: 54%;
+}
 .image-block{
     border: 2px solid violet;
-    width: 33%;
+    width: 28%;
+}
+.section-image{
+    border: 2px solid;
+    height: 60%;
+
+}
+.section-heading{
+    border: 2px solid;
+    height: 21%;
+
+}
+.section-sub-heading{
+    border: 2px solid;
+    height: 14%;
+
 }
