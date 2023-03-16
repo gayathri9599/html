@@ -1,0 +1,30 @@
+.flex-container{
+    display: flex;
+    height: 25vh;
+    align-items: end;
+    border: 2px solid red;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.flex_box{
+    
+    border: 4px solid blue;
+    height: 58%;
+    width: 15%;
+    
+
+
+}
+.align-individual{
+    align-self: flex-start;
+
+}
+
+.bg_color{
+    background-color: antiquewhite;
+}
+.bg_image{
+    background-image: url(https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80);
+    background-size: 108%;
+    background-repeat: no-repeat;
+}

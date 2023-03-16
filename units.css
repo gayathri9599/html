@@ -2,13 +2,70 @@
     color:purple;
     text-align: center;
     text-decoration: underline;
+    font-family: 'Henny Penny', cursive;
+
 }
 .heading{
     height: 50px;
     width: 500px;
-    color: blueviolet;
+    font-style: italic;
+
+color: blueviolet;
 }
+
 .heading-name{
     background-color: aquamarine;
     color: red;
+    font-style: italic;
+}
+
+.heading-for-relative{
+    width: 50vw;
+    height:25vh;
+    background-color: orange;
+}
+.heading-for-relative-percent{
+    width:40%;
+    height: 45%;
+    background-color: black;
+}
+
+.border{
+    border-style: double;
+    border-color: chocolate;
+    border-width: 9px;
+    border-top-style: inset;
+    border-left-style: solid;
+    border-left-color: burlywood;
+    border-right-style: solid;
+    border-right-color: tan;
+    border-top-width: 7px;
+}
+.shorthand_border{
+    border: 3px solid yellowgreen;
+    border-bottom-left-radius: 11px;
+    border-top-left-radius: 11px;
+    padding: 36px;
+    padding-left: 10px;
+    margin: 46px;
+    margin-left: 30px
+}
+.font{
+    font-size: 30px;
+    font-family: cursive;
+}
+.font_relative{
+    font-size: 31px;
+    font-family: cursive;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+.box{
+    width: 200px;
+  height: 200px;
+  border: 6px solid;
+  margin-left: 40px;
+  margin-bottom: 50px;
 }
