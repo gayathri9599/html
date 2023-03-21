@@ -66,3 +66,13 @@ var employees_information= [
   {name : "chithra", location: "vlr", age: 53}
  ]
 console.log(employees_information);
+
+// functions
+function display_object(){
+  var manager = {
+    name: "Chithra",
+    designation: "manager",
+    salary: "one crore"
+  }
+  console.log(manager);
+}
