@@ -32,3 +32,17 @@ console.log(student_info);
 
 var employee_information={ name:"Gayathri", age: 23, location: "bangalore" , company:"HCLTech"}
 console.log(employee_information);
+
+// to read value
+
+console.log(employee_information.age);
+
+// to edit existing value
+
+employee_information.company= "TCS";
+console.log(employee_information.company);
+
+// to insert new value
+
+employee_information.Designation ="React dev";
+console.log(employee_information);
