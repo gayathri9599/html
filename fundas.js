@@ -46,3 +46,23 @@ console.log(employee_information.company);
 
 employee_information.Designation ="React dev";
 console.log(employee_information);
+
+// to delete existing value
+
+delete employee_information.location;
+console.log(employee_information);
+
+// Array
+
+var employees_information = ["gayu", "sam","sasi", "ramesh", "vihaan", "chithra"];
+console.log(employees_information);
+
+var employees_information= [
+  {name : "gayu", location: "blr", age: 23},
+  {name : "sasi", location: "chennai", age: 25},
+  {name : "sam", location: "chni", age: 26},
+  {name : "ramesh", location: "vlr", age: 55},
+  {name : "vihaan", location: "chennai", age: 1},
+  {name : "chithra", location: "vlr", age: 53}
+ ]
+console.log(employees_information);
